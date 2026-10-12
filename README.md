@@ -1,26 +1,29 @@
-# Hi there, I'm BunnyByteBandit 🐰💻
+<!-- Cyber Neon Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=BunnyByteBandit&fontSize=70&fontColor=00f2fe&animation=twinkling&desc=Cybersecurity%20%7C%20Systems%20%7C%20Automation&descSize=20&descAlign=50&descAlignY=70" width="100%" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72585&center=true&vCenter=true&width=435&lines=Cybersecurity+%26+Development;Continuous+Learner+%26+Builder;Welcome+to+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F2FE&center=true&vCenter=true&width=435&lines=Cybersecurity+%26+Development;Continuous+Learner+%26+Builder;Welcome+to+my+profile!" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **[Project Name/Topic]**
-- 🌱 I’m currently learning **[New Tech/Skill]**
+- 🔭 I’m currently working on **Python automation scripts & Linux system security**
+- 🌱 I’m currently learning **Network Reconnaissance & Cybersecurity Architectures**
 - 💬 Ask me about **Python, Linux, Security & Systems**
-- ⚡ Fun fact: **[A fun personal or technical fact]**
+- ⚡ Fun fact: **I build custom scripts to analyze game data and mod load orders!**
 
 ---
 
 ### 🎵 Chill & Code
-🎧 **Lofi Beats for Coding:**  
-[![Lofi Player](https://img.shields.io/badge/Listen%20to-Lofi%20Girl%20Radio-ff79c6?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=jfKfPfyJRdk)
+🎧 **Lofi Beats for Coding Session:**  
+[![Lofi Girl Live](https://img.shields.io/badge/▶_Play_Lofi_Beats-Radio_Stream-FF79C6?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=jfKfPfyJRdk)
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Skills & Technologies
 
 | Category | Badges / Tools |
 | :--- | :--- |
@@ -31,9 +34,30 @@
 
 ### 🎓 Education & Certifications
 
-- 🎓 **Education:** Information Technology / Computer Science Coursework
+- 🎓 **Education:** 
+  - 🏛️ **College Coursework:** Information Technology / Computer Science
 - 📜 **Certifications:** 
-  - CompTIA A+ *(Certified / In Progress)*
+  - ![CompTIA](https://img.shields.io/badge/CompTIA-A%2B-002F6C?style=flat-square&logo=comptia&logoColor=white) **CompTIA A+** *(Certified / In Progress)*
+
+---
+
+### 📂 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🎮 [**RimWorld-Save-Analyzer**](https://github.com/BunnyByteBandit/RimWorld-Save-Analyzer) | A lightweight Python CLI tool designed to parse RimWorld `.rws` save files and verify active mod lists. | `Python` `XML` `CLI` |
+| 🛡️ [**Linux-Hardening-Script**](https://github.com/BunnyByteBandit) | Automated Bash script to apply security best practices to fresh Linux environments. | `Bash` `Linux` `Security` |
+
+---
+
+### 👥 Network & Collaboration
+
+#### 🎭 Alt Accounts
+* 🤖 **[@DataLynxdev](https://github.com/DataLynxdev)** – *Data & Development Projects*
+* 🔐 **[@FalconCodeCracker](https://github.com/FalconCodeCracker)** – *Security Research & Labs*
+
+#### 🤝 Key Collaborator
+* 👤 **[@Theycallmethebroker](https://github.com/Theycallmethebroker)** – *Development & Security Project Partner*
 
 ---
 
@@ -59,4 +83,5 @@
 ---
 
 ### 📬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
