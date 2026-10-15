@@ -7,7 +7,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C77DFF&center=true&vCenter=true&width=450&lines=Cybersecurity+%26+System+Hardening;Python+Automation+%26+Scripting;Continuous+Learner+%26+Builder" alt="Typing SVG" />
 </p>
 
-<hr style="border: none; height: 2px; background: #C77DFF; box-shadow: 0 0 10px #C77DFF, 0 0 20px #7B2CBF; margin: 30px 0;" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
+</p>
 
 ### 🚀 About Me
 - 🔭 I’m currently working on **Python automation scripts, network reconnaissance, and Linux system hardening**
@@ -15,13 +17,17 @@
 - 💬 Ask me about **Python, Linux security, network analysis, and system administration**
 - ⚡ Fun fact: **I build custom parsers and scripts to analyze game data and telemetry logs!**
 
-<hr style="border: none; height: 2px; background: #C77DFF; box-shadow: 0 0 10px #C77DFF, 0 0 20px #7B2CBF; margin: 30px 0;" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
+</p>
 
 ### 🎵 Chill & Code
 🎧 **Lofi Beats for Coding Session:**  
 [![Lofi Girl Live](https://img.shields.io/badge/▶_Play_Lofi_Beats-Radio_Stream-7B2CBF?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=jfKfPfyJRdk)
 
-<hr style="border: none; height: 2px; background: #C77DFF; box-shadow: 0 0 10px #C77DFF, 0 0 20px #7B2CBF; margin: 30px 0;" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
+</p>
 
 ### 🛠️ Skills & Technologies
 
@@ -30,7 +36,9 @@
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) |
 | **Systems & Security** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-313131?style=for-the-badge&logo=nmap&logoColor=white) |
 
-<hr style="border: none; height: 2px; background: #C77DFF; box-shadow: 0 0 10px #C77DFF, 0 0 20px #7B2CBF; margin: 30px 0;" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
+</p>
 
 ### 🎓 Education & Certifications
 
@@ -43,7 +51,9 @@
   - ![CompTIA](https://img.shields.io/badge/CompTIA-A%2B-7B2CBF?style=flat-square&logo=comptia&logoColor=white) **CompTIA A+** 
   - ![CompTIA](https://img.shields.io/badge/CompTIA-Security%2B-5A189A?style=flat-square&logo=comptia&logoColor=white) **CompTIA Security+** *(Preparation / In Progress)*
 
-<hr style="border: none; height: 2px; background: #C77DFF; box-shadow: 0 0 10px #C77DFF, 0 0 20px #7B2CBF; margin: 30px 0;" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
+</p>
 
 ### 📂 Featured Projects
 
@@ -56,39 +66,36 @@
 | ♟️ [**Terminal-Chess-Engine**](https://github.com/BunnyByteBandit/Terminal-Chess-Engine) | Terminal-based chess board engine and move state visualizer. | `Python` `CLI` `Games` |
 | 🎮 [**RimWorld-Save-Analyzer**](https://github.com/BunnyByteBandit/RimWorld-Save-Analyzer) | CLI tool parsing RimWorld `.rws` save files to inspect active mod configurations. | `Python` `XML` `CLI` |
 
-<hr style="border: none; height: 2px; background: #C77DFF; box-shadow: 0 0 10px #C77DFF, 0 0 20px #7B2CBF; margin: 30px 0;" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
+</p>
 
 ### 🌐 Network, Alt Accounts & Key Collaborators
 
-<div style="border: 2px solid #C77DFF; border-radius: 12px; padding: 16px; background: #120324; box-shadow: 0 0 15px rgba(199, 125, 255, 0.3); margin-bottom: 12px;">
-  <h4 style="margin: 0 0 6px 0; color: #E0AAFF;">🤖 Alt Account: DataLynxdev</h4>
-  <p style="margin: 0; color: #D8B4FE; font-size: 14px;">Focuses on data processing scripts, analytics tools, and algorithmic automation repositories. &nbsp;[<a href="https://github.com/DataLynxdev" style="color: #C77DFF;">View Profile</a>]</p>
-</div>
+| Account / Partner | Role & Focus Area | Direct Link |
+| :--- | :--- | :--- |
+| 🤖 **DataLynxdev** | Data processing scripts, analytics tools, and algorithmic automation repositories. | [View Profile](https://github.com/DataLynxdev) |
+| 🔐 **FalconCodeCracker** | Security research, penetration testing labs, and vulnerability scanning tools. | [View Profile](https://github.com/FalconCodeCracker) |
+| 🤝 **Theycallmethebroker** | Primary project partner and collaborator on full-stack development & security integrations. | [View Partner](https://github.com/Theycallmethebroker) |
 
-<div style="border: 2px solid #C77DFF; border-radius: 12px; padding: 16px; background: #120324; box-shadow: 0 0 15px rgba(199, 125, 255, 0.3); margin-bottom: 12px;">
-  <h4 style="margin: 0 0 6px 0; color: #E0AAFF;">🔐 Alt Account: FalconCodeCracker</h4>
-  <p style="margin: 0; color: #D8B4FE; font-size: 14px;">Dedicated to security research, penetration testing labs, and vulnerability scanning tools. &nbsp;[<a href="https://github.com/FalconCodeCracker" style="color: #C77DFF;">View Profile</a>]</p>
-</div>
-
-<div style="border: 2px solid #C77DFF; border-radius: 12px; padding: 16px; background: #120324; box-shadow: 0 0 15px rgba(199, 125, 255, 0.3);">
-  <h4 style="margin: 0 0 6px 0; color: #E0AAFF;">🤝 Key Collaborator: Theycallmethebroker</h4>
-  <p style="margin: 0; color: #D8B4FE; font-size: 14px;">Primary project partner and collaborator on full-stack development & security integrations. &nbsp;[<a href="https://github.com/Theycallmethebroker" style="color: #C77DFF;">View Partner</a>]</p>
-</div>
-
-<hr style="border: none; height: 2px; background: #C77DFF; box-shadow: 0 0 10px #C77DFF, 0 0 20px #7B2CBF; margin: 30px 0;" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
+</p>
 
 ### 📊 GitHub Stats & Streaks
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BunnyByteBandit&show_icons=true&theme=vue-dark&hide_border=true&icon_color=C77DFF&text_color=E0AAFF&bg_color=120324&card_width=450" alt="BunnyByteBandit's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BunnyByteBandit&layout=compact&theme=vue-dark&hide_border=true&text_color=E0AAFF&bg_color=120324&card_width=450" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BunnyByteBandit&show_icons=true&theme=vue-dark&hide_border=false&border_color=C77DFF&icon_color=C77DFF&text_color=E0AAFF&bg_color=120324&card_width=450" alt="BunnyByteBandit's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BunnyByteBandit&layout=compact&theme=vue-dark&hide_border=false&border_color=C77DFF&text_color=E0AAFF&bg_color=120324&card_width=450" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BunnyByteBandit&theme=vue-dark&hide_border=true&stroke=C77DFF&side=120324&background=120324" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BunnyByteBandit&theme=vue-dark&hide_border=false&border=C77DFF&stroke=C77DFF&side=120324&background=120324" alt="GitHub Streak" />
 </p>
 
-<hr style="border: none; height: 2px; background: #C77DFF; box-shadow: 0 0 10px #C77DFF, 0 0 20px #7B2CBF; margin: 30px 0;" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
+</p>
 
 ### 🐍 Contribution Snake Game
 
@@ -96,7 +103,9 @@
   <img src="https://raw.githubusercontent.com/BunnyByteBandit/BunnyByteBandit/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
-<hr style="border: none; height: 2px; background: #C77DFF; box-shadow: 0 0 10px #C77DFF, 0 0 20px #7B2CBF; margin: 30px 0;" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
+</p>
 
 ### 📬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
