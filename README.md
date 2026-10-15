@@ -71,12 +71,13 @@
 ### 📊 GitHub Stats & Streaks
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BunnyByteBandit&show_icons=true&theme=vue-dark&hide_border=false&ring_color=C77DFF&icon_color=C77DFF&text_color=E0AAFF&bg_color=120324&card_width=450" alt="BunnyByteBandit's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BunnyByteBandit&layout=compact&theme=vue-dark&hide_border=false&ring_color=C77DFF&text_color=E0AAFF&bg_color=120324&card_width=450" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BunnyByteBandit&show_icons=true&theme=vue-dark&hide_border=false&border_color=C77DFF&ring_color=C77DFF&title_color=C77DFF&icon_color=C77DFF&text_color=E0AAFF&bg_color=120324&card_height=180" height="180" alt="BunnyByteBandit's GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BunnyByteBandit&layout=compact&theme=vue-dark&hide_border=false&border_color=C77DFF&ring_color=C77DFF&title_color=C77DFF&text_color=E0AAFF&bg_color=120324&card_height=180" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BunnyByteBandit&theme=vue-dark&hide_border=false&ring=C77DFF&stroke=C77DFF&side=120324&background=120324" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BunnyByteBandit&theme=vue-dark&hide_border=false&border=C77DFF&stroke=C77DFF&ring=C77DFF&fire=C77DFF&currStreakNum=E0AAFF&side=120324&background=120324" alt="GitHub Streak" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2CBF,100:C77DFF&height=4&section=header" width="100%" />
