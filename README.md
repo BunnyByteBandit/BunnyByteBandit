@@ -1,19 +1,20 @@
 <!-- Purple Neon Glowing Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:120324,50:240046,100:3c096c&height=220&section=header&text=BunnyByteBandit&fontSize=70&fontColor=E0AAFF&animation=twinkling&desc=Cybersecurity%20%7C%20Systems%20%7C%20Automation&descSize=20&descAlign=50&descAlignY=70" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:120324,50:240046,100:3c096c&height=220&section=header&text=BunnyByteBandit&fontSize=70&fontColor=E0AAFF&animation=twinkling&desc=Cybersecurity%20%7C%20Drone%20Tech%20%7C%20Automation&descSize=20&descAlign=50&descAlignY=70" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C77DFF&center=true&vCenter=true&width=450&lines=Cybersecurity+%26+System+Hardening;Python+Automation+%26+Scripting;Continuous+Learner+%26+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C77DFF&center=true&vCenter=true&width=450&lines=Cybersecurity+%26+Drone+Telemetry;Python+Automation+%26+Scripting;Continuous+Learner+%26+Builder" alt="Typing SVG" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2CBF,100:C77DFF&height=4&section=header" width="100%" />
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **Python automation scripts, network reconnaissance, and Linux system hardening**
-- 🌱 I’m currently pursuing my **Master's in Cybersecurity** and building advanced lab projects
-- 💬 Ask me about **Python, Linux security, network analysis, and system administration**
-- ⚡ Fun fact: **I build custom parsers and scripts to analyze game data and telemetry logs!**
+- 🔭 I’m currently developing **cybersecurity tools, network reconnaissance scripts, and drone telemetry log analyzers**
+- 🛸 Passionate about **UAV airspace scanning, RF telemetry simulation, and security automation**
+- 🌱 Pursuing my **Master's in Cybersecurity** while building advanced labs for system hardening and network security
+- 💬 Ask me about **Python automation, Linux security, drone telemetry systems, and network analysis**
+- ⚡ Fun fact: **I build custom parsers to decode drone flight telemetry logs and game data!**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2CBF,100:C77DFF&height=4&section=header" width="100%" />
 
@@ -28,7 +29,7 @@
 | Category | Badges / Tools |
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) |
-| **Systems & Security** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-313131?style=for-the-badge&logo=nmap&logoColor=white) |
+| **Systems, Security & Drones** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-313131?style=for-the-badge&logo=nmap&logoColor=white) |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2CBF,100:C77DFF&height=4&section=header" width="100%" />
 
@@ -40,8 +41,10 @@
 - 🏛️ **Anne Arundel Community College (AACC)**
   - 📜 *Information Science and Assurance*
 - 📜 **Industry Certifications:**
-  - ![CompTIA](https://img.shields.io/badge/CompTIA-A%2B-7B2CBF?style=flat-square&logo=comptia&logoColor=white) **CompTIA A+** 
-  - ![CompTIA](https://img.shields.io/badge/CompTIA-Security%2B-5A189A?style=flat-square&logo=comptia&logoColor=white) **CompTIA Security+** *(Preparation / In Progress)*
+  - ![CompTIA](https://img.shields.io/badge/CompTIA-A%2B-7B2CBF?style=flat-square&logo=comptia&logoColor=white) **CompTIA A+** *(Earned)*
+  - ![CompTIA](https://img.shields.io/badge/CompTIA-Network%2B-5A189A?style=flat-square&logo=comptia&logoColor=white) **CompTIA Network+** *(In Progress)*
+  - ![CompTIA](https://img.shields.io/badge/CompTIA-Security%2B-3C096C?style=flat-square&logo=comptia&logoColor=white) **CompTIA Security+** *(In Progress)*
+  - ![CEH](https://img.shields.io/badge/EC--Council-CEH-7B2CBF?style=flat-square&logo=ec-council&logoColor=white) **Certified Ethical Hacker (CEH)** *(In Progress)*
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2CBF,100:C77DFF&height=4&section=header" width="100%" />
 
