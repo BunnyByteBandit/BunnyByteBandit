@@ -85,12 +85,12 @@
 ### 📊 GitHub Stats & Streaks
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BunnyByteBandit&show_icons=true&theme=vue-dark&hide_border=false&border_color=C77DFF&icon_color=C77DFF&text_color=E0AAFF&bg_color=120324&card_width=450" alt="BunnyByteBandit's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BunnyByteBandit&layout=compact&theme=vue-dark&hide_border=false&border_color=C77DFF&text_color=E0AAFF&bg_color=120324&card_width=450" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BunnyByteBandit&show_icons=true&theme=vue-dark&hide_border=false&ring_color=C77DFF&icon_color=C77DFF&text_color=E0AAFF&bg_color=120324&card_width=450" alt="BunnyByteBandit's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BunnyByteBandit&layout=compact&theme=vue-dark&hide_border=false&ring_color=C77DFF&text_color=E0AAFF&bg_color=120324&card_width=450" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BunnyByteBandit&theme=vue-dark&hide_border=false&border=C77DFF&stroke=C77DFF&side=120324&background=120324" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BunnyByteBandit&theme=vue-dark&hide_border=false&ring=C77DFF&stroke=C77DFF&side=120324&background=120324" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -102,6 +102,14 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/BunnyByteBandit/BunnyByteBandit/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
+</p>
+
+### 📬 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Discord](https://img.shields.io/badge/Discord-5A189A?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
