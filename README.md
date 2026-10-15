@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C77DFF&center=true&vCenter=true&width=450&lines=Cybersecurity+%26+Drone+Telemetry;Python+Automation+%26+Scripting;Continuous+Learner+%26+Builder" alt="Typing SVG" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2CBF,100:C77DFF&height=4&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3c096c,50:c77dff,100:7b2cbf&height=4&section=header" width="100%" />
 
 ### 🚀 About Me
 - 🔭 I’m currently developing **cybersecurity tools, network reconnaissance scripts, and drone telemetry log analyzers**
@@ -16,13 +16,13 @@
 - 💬 Ask me about **Python automation, Linux security, drone telemetry systems, and network analysis**
 - ⚡ Fun fact: **I build custom parsers to decode drone flight telemetry logs and game data!**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2CBF,100:C77DFF&height=4&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3c096c,50:c77dff,100:7b2cbf&height=4&section=header" width="100%" />
 
 ### 🎵 Chill & Code
 🎧 **Lofi Beats for Coding Session:**  
 [![Lofi Girl Live](https://img.shields.io/badge/▶_Play_Lofi_Beats-Radio_Stream-7B2CBF?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=jfKfPfyJRdk)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2CBF,100:C77DFF&height=4&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3c096c,50:c77dff,100:7b2cbf&height=4&section=header" width="100%" />
 
 ### 🛠️ Skills & Technologies
 
@@ -31,7 +31,7 @@
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) |
 | **Systems, Security & Drones** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-313131?style=for-the-badge&logo=nmap&logoColor=white) |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2CBF,100:C77DFF&height=4&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3c096c,50:c77dff,100:7b2cbf&height=4&section=header" width="100%" />
 
 ### 🎓 Education & Certifications
 
@@ -46,7 +46,7 @@
   - ![CompTIA](https://img.shields.io/badge/CompTIA-Security%2B-3C096C?style=flat-square&logo=comptia&logoColor=white) **CompTIA Security+** *(In Progress)*
   - ![CEH](https://img.shields.io/badge/EC--Council-CEH-7B2CBF?style=flat-square&logo=ec-council&logoColor=white) **Certified Ethical Hacker (CEH)** *(In Progress)*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2CBF,100:C77DFF&height=4&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3c096c,50:c77dff,100:7b2cbf&height=4&section=header" width="100%" />
 
 ### 📂 Featured Projects
 
@@ -59,7 +59,7 @@
 | ♟️ [**Terminal-Chess-Engine**](https://github.com/BunnyByteBandit/Terminal-Chess-Engine) | Terminal-based chess board engine and move state visualizer. | `Python` `CLI` `Games` |
 | 🎮 [**RimWorld-Save-Analyzer**](https://github.com/BunnyByteBandit/RimWorld-Save-Analyzer) | CLI tool parsing RimWorld `.rws` save files to inspect active mod configurations. | `Python` `XML` `CLI` |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2CBF,100:C77DFF&height=4&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3c096c,50:c77dff,100:7b2cbf&height=4&section=header" width="100%" />
 
 ### 🌐 Network, Alt Accounts & Key Collaborators
 
@@ -69,7 +69,7 @@
 | 🔐 **FalconCodeCracker** | Security research, penetration testing labs, and vulnerability scanning tools. | [View Profile](https://github.com/FalconCodeCracker) |
 | 🤝 **Theycallmethebroker** | Primary project partner and collaborator on full-stack development & security integrations. | [View Partner](https://github.com/Theycallmethebroker) |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2CBF,100:C77DFF&height=4&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3c096c,50:c77dff,100:7b2cbf&height=4&section=header" width="100%" />
 
 ### 📊 GitHub Stats & Streaks
 
@@ -83,7 +83,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BunnyByteBandit&theme=vue-dark&hide_border=false&border=C77DFF&stroke=C77DFF&ring=C77DFF&fire=C77DFF&currStreakNum=E0AAFF&side=120324&background=120324" alt="GitHub Streak" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2CBF,100:C77DFF&height=4&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3c096c,50:c77dff,100:7b2cbf&height=4&section=header" width="100%" />
 
 ### 🐍 Contribution Snake Game
 
@@ -91,7 +91,7 @@
   <img src="https://raw.githubusercontent.com/BunnyByteBandit/BunnyByteBandit/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2CBF,100:C77DFF&height=4&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3c096c,50:c77dff,100:7b2cbf&height=4&section=header" width="100%" />
 
 ### 📬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
